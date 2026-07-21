@@ -29,8 +29,8 @@
 ### 📊 Minhas Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Quedma-Carvalho&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Quedma-Carvalho&layout=compact&theme=dracula" height="150" />
+  <img src="https://img.shields.io/github/followers/Quedma-Carvalho?label=Seguidores&style=for-the-badge&color=BD93F9" />
+  <img src="https://img.shields.io/github/stars/Quedma-Carvalho?label=Estrelas&style=for-the-badge&color=F1FA8C" />
 </div>
 
 ---
