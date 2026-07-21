@@ -29,7 +29,8 @@
 ### 📊 Minhas Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quedma-Carvalho&theme=dracula" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Quedma-Carvalho&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Quedma-Carvalho&layout=compact&theme=dracula" height="150" />
 </div>
 
 ---
